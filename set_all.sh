@@ -6,7 +6,7 @@ sudo apt install -y recon-ng theharvester metagoofil spiderfoot maltego amass su
 
 sudo apt install gnome-terminal
 
-wget -O /home/kali/wallpaper.gif "https://objects.githubusercontent.com/github-production-release-asset-2e65be/941204575/dbaab216-144b-432a-bc3f-88d1914131a3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250301T183441Z&X-Amz-Expires=300&X-Amz-Signature=960aece118ca311ae01b30535f5f46da906a42e7acf0f5599b983f2e63bef0e0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dwallpaper.gif&response-content-type=application%2Foctet-stream"
+wget -O /home/kali/wallpaper.gif "https://github.com/JustSouichi/test-live/releases/download/v0.1.0/wallpaper.gif"
 
 
 chmod +x set_xwinwrap.sh
